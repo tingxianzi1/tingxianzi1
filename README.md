@@ -1,5 +1,8 @@
 ## Hi there 👋
-
+# About
+你好，我是庭湘子
+游戏爱好者，初次见面，请多关照
+2024.06.03注册
 <!--
 **tingxianzi1/tingxianzi1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
